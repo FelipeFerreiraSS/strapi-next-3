@@ -1,1 +1,1 @@
-# strapi-next-3
+# strapi next 3, heroku
